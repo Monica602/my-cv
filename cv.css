@@ -1,0 +1,158 @@
+#header{
+	width:880px;
+	display: grid;
+	grid-template-columns:  2fr 5fr;
+	background: pink;
+	color: white;
+}
+#header1{
+	padding: 2px; margin-left: auto; margin-right: auto; font-size: 24px; margin-left: 15px;
+	display: grid;
+	grid-template-columns:  2fr 5fr;
+}
+#para{
+
+	background: green;
+	margin-left: 5px;
+	margin-right: 10px;
+	font-family:"Times New Roman";
+	font-style: oblique;
+	letter-spacing: 0cm;
+	
+
+}
+
+#para2{
+	
+	font-style:italic;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	letter-spacing: 0cm; 
+}
+#para3{
+	width:510px;
+	background:  brown;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-style: oblique;
+	letter-spacing: 0cm;
+}
+#para4{
+	
+	font-style: italic;
+}
+#edu{
+	
+	margin:3px;
+	padding:5px;
+	height:20px;
+	width:300px;
+	background: grey;
+}
+#image{
+	border-radius: 50%;
+	vertical-align: middle;
+	height:250px;
+	width: 250px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+
+}
+.loc{
+	position: relative; width: 35px; height: 37px;
+}
+#location{
+	display: inline-flex;
+}
+#addre{
+	position: absolute; top: 580px; left: 120px;
+}
+.fb{
+	position: relative; width: 49px; height: 38px; left: -5px;
+}
+#face{
+	position: absolute; top: 620px; left: 120px;
+}
+.em{
+		position: relative; width: 32px; height: 30px; left: 2px;
+}
+#add{
+		position: absolute; top: 650px; left: 120px;
+}
+.ca{
+			position: relative; width: 32px; height: 30px; left: 2px;
+}
+#cal{
+		position: absolute; top: 680px; left: 120px;
+}
+.ca1{
+			position: relative; width: 52px; height: 40px; left: 10px;
+}
+#cal1{
+		position: absolute; top: 700px; left: 220px;
+}
+h6{
+	position:relative;margin-right: 85px; margin-bottom: 80px;margin-top: 50px;
+}
+
+#name{
+	font-style: italic;
+	letter-spacing: 0.3cm;
+	font-weight:bolder;
+	margin-top: 30px;
+	text-shadow: 2px 2px white;
+	color: red;
+}
+#web{
+	text-shadow: 2px 2px white;
+	font-style: oblique;
+	letter-spacing: 0.2cm;
+	margin-top: 20px;
+	color: green;
+}
+
+#underline{
+	height:7px;
+	width:300px;
+	margin-top: 10px;
+	background:blue; 
+}
+
+#Profile{
+
+	height:30px;
+	width:300px;
+	display: grid;
+	background: grey;
+	grid-template-rows: 2fr 5fr;
+	margin:3px;
+	padding:5px;
+	}
+	#Profile1{
+
+	height:30px;
+	width:500px;
+	display: grid;
+	background: grey;
+	grid-template-rows: 2fr 5fr;
+	margin:3px;
+	padding:5px;
+	}
+	#profile2{
+	height:30px;
+	width:200px;
+	
+	background: grey;
+	
+	margin:3px;
+	padding:5px;
+	
+	}
+#main{
+	width:880px;
+	background:purple;
+	margin: 50px;
+	padding:0px;
+}
